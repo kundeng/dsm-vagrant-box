@@ -1,6 +1,9 @@
 # DSM Vagrant Box
 A Vagrant box to get a virtualized Synology Diskstation Manager up and running. Based on XPEnology.
 
+Updates:
+01/02/2018:  update this vagrant box to dsm 6.1? 
+
 What you'll get:
 
 * Virtualized DSM 5.1 (DSM 5.1-5022)
